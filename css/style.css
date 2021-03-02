@@ -1,0 +1,24 @@
+style.css
+corps {
+  famille de polices : sans-serif;
+}
+
+/ * Faire en sorte que la zone de contenu remplisse toute la fenêtre du navigateur * /
+html ,
+. plein écran {
+  affichage : flex;
+  hauteur : 100 % ;
+  marge : 0 ;
+  rembourrage : 0 ;
+  largeur : 100 % ;
+}
+
+/ * Centrer le contenu dans la fenêtre du navigateur * /
+. conteneur {
+  marge : automatique;
+  text-align : centre;
+}
+
+. titre {
+  taille de la police : 3 rem ;
+}
